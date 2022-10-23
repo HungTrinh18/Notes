@@ -3,7 +3,10 @@ Notes is an application that helps users to take notes, prioritize ideas, to-do 
 The applcation has a friendly UI that allows users to quickly operate the application, and easy to use.
 
 # Features
-* Add Notes
-* Delete Notes
-* Edit Notes
-* Add images
+* Add/Delete notes
+* Edit notes
+* Search Note
+* Add/Delete images
+* Change colors of note
+* Change grid view to list view and vice versa
+* Add web links
