@@ -12,7 +12,7 @@ The applcation has a friendly UI that allows users to quickly operate the applic
 * Add web links
 
 # Demo
-
+<img src="https://github.com/HungTrinh18/Notes/blob/main/Demo/Demo.gif" width="280" height="500" />
 
 
 # Install
