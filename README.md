@@ -16,4 +16,4 @@ The applcation has a friendly UI that allows users to quickly operate the applic
 
 
 # Install
-Clone the project -> Go to the APK folder -> then drag the **`Notes.apk`** file to the emulator.
+Clone the project -> Go to the APK folder -> then drag the **`Notes.apk`** file to the emulator
