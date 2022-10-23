@@ -10,3 +10,5 @@ The applcation has a friendly UI that allows users to quickly operate the applic
 * Change colors of note
 * Change grid view to list view and vice versa
 * Add web links
+
+# Demo
