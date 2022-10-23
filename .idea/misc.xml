@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_add_button.xml" value="0.176" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_bottom_actions.xml" value="0.1565" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_color_2.xml" value="0.1565" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_color_3.xml" value="0.1565" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_color_4.xml" value="0.1565" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_default_color.xml" value="0.1565" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_delete_image_button.xml" value="0.1565" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_note.xml" value="0.1565" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/background_search.xml" value="0.176" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/drawable/note_color_indicator.xml" value="0.1565" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/layout/activity_create_note.xml" value="0.253125" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/layout/confirm_delete.xml" value="0.253125" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/layout/layout_bottom_actions.xml" value="0.253125" />
+        <entry key="..\:/Users/ALIENWARE/AndroidStudioProjects/FinalMobile/app/src/main/res/layout/notes_container.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

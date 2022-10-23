@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinalMobile</string>
+    <string name="search">Search</string>
+    <string name="notes">Notes</string>
+    <string name="actions">Actions</string>
+    <string name="color">Color</string>
+    <string name="add_image">Add image</string>
+    <string name="delete">Delete</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="type_here">Type here....</string>
+</resources>
