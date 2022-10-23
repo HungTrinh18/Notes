@@ -3,4 +3,7 @@ Notes is an application that helps users to take notes, prioritize ideas, to-do 
 The applcation has a friendly UI that allows users to quickly operate the application, and easy to use.
 
 # Features
-* monkey
+* Add Notes
+* Delete Notes
+* Edit Notes
+* Add images
